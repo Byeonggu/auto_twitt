@@ -26,9 +26,9 @@ public class twitterTest1 {
 		Twitter twitter;
 		StringBuilder result = new StringBuilder();
 		twitter = TwitterFactory.getSingleton();
-		twitter.setOAuthConsumer("kM4stCv3tKnu2WpApc046hPLa", "A2QqCli04qtFW5ujgbeBG1Jd3oH8W8mwa5bKUATnh0nGz0Lrve");
+		twitter.setOAuthConsumer("x", "x");
 		
-		accessToken = new AccessToken("1613717725985271808-w07kXrVINZ4B5iNWAYDxrLL5Kw1mUR","V4Y02eCNAtA0KHutekUTuNTW0w87hxwT1iLsA3tw0Gzyz"); //내 계정
+		accessToken = new AccessToken("x-x","x"); //내 계정
 		twitter.setOAuthAccessToken(accessToken);
 
 		WebDriver driver = new ChromeDriver();
