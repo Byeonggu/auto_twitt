@@ -1,4 +1,5 @@
 # auto_twitt
 
 team_OKK
-Byeonggu, yj0111, jis002
+
+- Byeonggu, yj0111, jis002
